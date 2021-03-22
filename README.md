@@ -4,10 +4,10 @@
 
 ## Cantinho voltado para armazenar todos os meus projetos ligados a programação
 
-*Estudante de sistema de informação da UFRPE📓.
-*Identifico com o ambiente front-end🖥.
-*Experiência: FlorArte(Marketing)💡.
-*Techs: Python e Flutter⌨️.
+*Estudante de sistema de informação da UFRPE📓.<br/>
+*Identifico com o ambiente front-end🖥.<br/>
+*Experiência: FlorArte(Marketing)💡.<br/>
+*Techs: Python e Flutter⌨️.<br/>
 
 ## Tecnologias
 
