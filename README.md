@@ -1,6 +1,6 @@
 ### 💻 Júlia De Melo Albuquerque 📱
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/júlia-de-melo-albuquerque/) <img src="https://img.shields.io/badge/juliarexsteam@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/júlia-de-melo-albuquerque/) [<img src="https://img.shields.io/badge/juliarexsteam@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto: juliarexsteam@hotmail.com)
 
 ## Cantinho voltado para armazenar todos os meus projetos ligados a programação ⌨️
 
