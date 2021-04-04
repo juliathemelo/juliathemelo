@@ -1,6 +1,9 @@
 ### 💻 Júlia De Melo Albuquerque 📱
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/júlia-de-melo-albuquerque/) [<img src="https://img.shields.io/badge/juliarexsteam@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto: juliarexsteam@hotmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/júlia-de-melo-albuquerque/) 
+[![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juliarexsteam@hotmail.com)
+
+
 
 ## Cantinho voltado para armazenar todos os meus projetos ligados a programação ⌨️
 
@@ -8,6 +11,8 @@
 *Identifico com o ambiente front-end🖥.<br/>
 *Experiência: FlorArte(Marketing)💡.<br/>
 *Techs: Python e Flutter⌨️.<br/>
+
+![Julia De Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=juliathemelo&show_icons=true&theme=dark)
 
 ## Tecnologias ⚙️
 
