@@ -10,7 +10,7 @@
 *Estudante de sistema de informação da UFRPE📓.<br/>
 *Identifico com o ambiente front-end🖥.<br/>
 *Experiência: FlorArte(Marketing)💡.<br/>
-*Techs: Python e Flutter⌨️.<br/>
+*Techs: Python, Flutter and JavaScript⌨️.<br/>
 
 ![Julia De Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=juliathemelo&show_icons=true&theme=dark)
 
