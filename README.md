@@ -8,7 +8,7 @@
 ## Cantinho voltado para armazenar todos os meus projetos ligados a programação ⌨️
 
 *Estudante de sistema de informação da UFRPE📓.<br/>
-*Identifico com o ambiente front-end🖥.<br/>
+*Meu obejtivo é me tornar FullStack🖥.<br/>
 *Experiência: FlorArte(Marketing)💡.<br/>
 *Techs: Python, Flutter and JavaScript⌨️.<br/>
 
