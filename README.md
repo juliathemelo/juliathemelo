@@ -3,8 +3,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juliameloalbuquerque/) 
 [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juliarexsteam@hotmail.com)
 
-
-
 ## Showroom of Projects and Activities with programming ⌨️
 
 *Student of Information System in UFRPE📓.<br/>
@@ -25,6 +23,8 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliathemelo&layout=compact&show_icons=true&theme=dark)](https://github.com/juliathemelo)
 
